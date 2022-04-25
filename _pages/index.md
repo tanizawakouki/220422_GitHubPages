@@ -18,17 +18,17 @@ permalink: /
 
 # ドイツ語(主にYoutube)
 ### アルファベートの歌（ウムラウト文字とエスツェットなし）
-> [https://www.youtube.com/watch?v=C7gI4muco-o]https://www.youtube.com/watch?v=C7gI4muco-o
+> (https://www.youtube.com/watch?v=C7gI4muco-o)
 
 ### アルファベートの歌（ウムラウト文字とエスツェットなし）
-> [https://www.youtube.com/watch?v=zxQXEyMMC0E&t=2s]https://www.youtube.com/watch?v=zxQXEyMMC0E&t=2s
+> (https://www.youtube.com/watch?v=zxQXEyMMC0E&t=2s)
 
 ### ０から１０までの数え歌
-> [https://www.youtube.com/watch?v=KO9DAnw39do]https://www.youtube.com/watch?v=KO9DAnw39do
+> (https://www.youtube.com/watch?v=KO9DAnw39do)
 
 ### Die Mouse
 ドイツ版教育アニメ。ドイツの子供たちはこれを見て育つらしい。
-> [https://www.youtube.com/watch?v=POMJ6gYN3Dc&t=41s]https://www.youtube.com/watch?v=POMJ6gYN3Dc&t=41s
+> (https://www.youtube.com/watch?v=POMJ6gYN3Dc&t=41s)
 
 # 他募集中！
 **他に有用なリンクがあれば教えてほしいです。特にプログラミング関連！**
